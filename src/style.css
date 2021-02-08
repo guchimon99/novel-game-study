@@ -1,0 +1,10 @@
+:root {
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 16px;
+}
+
+*,
+*::before,
+*::after {
+  user-select: none;
+}
